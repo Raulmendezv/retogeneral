@@ -297,6 +297,7 @@ button {
   .contenido img {
     margin-bottom: 60px;
     height: auto;
+    width: auto;
   }
 }
 
